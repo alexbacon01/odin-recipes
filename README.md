@@ -1,0 +1,1 @@
+This project is the first project in The Odin Project course. I am going to be creating a website with a main index page that links to recipes.
